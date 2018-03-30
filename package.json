@@ -1,0 +1,14 @@
+{
+  "name": "@hashnite/core",
+  "version": "0.0.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hashnite/core.git"
+  },
+  "author": "Wilco Bakker",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hashnite/core/issues"
+  },
+  "homepage": "https://github.com/hashnite/core#readme"
+}
